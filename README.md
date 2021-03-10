@@ -36,7 +36,7 @@ ___
 
 ___
 
-###### Tutorial for the latest Bootstrap v.5 Alpha. In this video we'll learn about the changes implemented into v.5.
+###### Discover tutorials for the latest Bootstrap 5 and learn how to create templates yourself.
 
 **[>> Click here for a written tutorial](https://mdbootstrap.com/docs/standard/getting-started/quick-start/)**
 
