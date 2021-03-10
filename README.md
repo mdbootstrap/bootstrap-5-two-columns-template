@@ -1,8 +1,9 @@
+# 2-columns template for Bootstrap 5
 
 
-<a href="https://mdbootstrap.com"><img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png"></a>
+These templates were built with a **free Material Design UI Kit for the latest Bootstrap 5**.
 
-# bootstrap-5-two-columns-template
+<img height="25" src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">  [![GitHub Stars](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?label=Star%20now&style=social)](https://github.com/mdbootstrap/mdb-ui-kit/)
 
 <a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"> <img src="https://img.shields.io/npm/dm/mdbootstrap.svg?label=MDB%20Downloads" alt="Downloads"></a>
 <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
@@ -14,7 +15,7 @@ ___
   <tbody>
     <tr>
       <td>
-          <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+          <a href="https://mdbootstrap.com/freebies/two-columns/" alt="Bootstrap 5" rel="dofollow">
           		<img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/freebies/two-columns/assets/featured.webp">
           </a>
       </td>
@@ -25,7 +26,6 @@ ___
          <li><b>Plain javascript (but works also with jQuery)</b></li>
          <li>Use in your design and create amazing things</li>
          <li><b>MIT license - free for personal & commercial use</b></li>
-          <li><b>Check out the <a href="https://github.com/mdbootstrap/mdb-ui-kit">MDB5 UI Kit</a> repo and give us a star</b></li>
         </ul>
       </td>
     </tr>
