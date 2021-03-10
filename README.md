@@ -26,6 +26,7 @@ ___
          <li><b>Plain javascript (but works also with jQuery)</b></li>
          <li>Use in your design and create amazing things</li>
          <li><b>MIT license - free for personal & commercial use</b></li>
+          <li><b><a href="https://mdbootstrap.com/snippets/standard/mdbootstrap/2515556">Live Demo</a></b></li>
         </ul>
       </td>
     </tr>
